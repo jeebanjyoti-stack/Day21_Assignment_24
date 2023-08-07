@@ -1,0 +1,11 @@
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\bin\Debug\XML_Serialization.exe.config
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\bin\Debug\XML_Serialization.exe
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\bin\Debug\XML_Serialization.pdb
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\bin\Debug\EmployeeLib.dll
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\bin\Debug\EmployeeLib.pdb
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.csproj.AssemblyReference.cache
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.csproj.CopyComplete
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.exe
+D:\C# Programme\Day-21\Assignment_24\XML_Serialization\XML_Serialization\obj\Debug\XML_Serialization.pdb

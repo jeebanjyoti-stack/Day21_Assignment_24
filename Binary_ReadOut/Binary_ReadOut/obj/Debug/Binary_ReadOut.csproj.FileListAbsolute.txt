@@ -1,0 +1,11 @@
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\bin\Debug\Binary_ReadOut.exe.config
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\bin\Debug\Binary_ReadOut.exe
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\bin\Debug\Binary_ReadOut.pdb
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\bin\Debug\EmployeeLib.dll
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\bin\Debug\EmployeeLib.pdb
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\obj\Debug\Binary_ReadOut.csproj.AssemblyReference.cache
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\obj\Debug\Binary_ReadOut.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\obj\Debug\Binary_ReadOut.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\obj\Debug\Binary_ReadOut.csproj.CopyComplete
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\obj\Debug\Binary_ReadOut.exe
+D:\C# Programme\Day-21\Assignment_24\Binary_ReadOut\Binary_ReadOut\obj\Debug\Binary_ReadOut.pdb

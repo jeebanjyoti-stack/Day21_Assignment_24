@@ -1,0 +1,11 @@
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\bin\Debug\XML_ReadOut.exe.config
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\bin\Debug\XML_ReadOut.exe
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\bin\Debug\XML_ReadOut.pdb
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\bin\Debug\EmployeeLib.dll
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\bin\Debug\EmployeeLib.pdb
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\obj\Debug\XML_ReadOut.csproj.AssemblyReference.cache
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\obj\Debug\XML_ReadOut.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\obj\Debug\XML_ReadOut.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\obj\Debug\XML_ReadOut.csproj.CopyComplete
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\obj\Debug\XML_ReadOut.exe
+D:\C# Programme\Day-21\Assignment_24\XML_ReadOut\XML_ReadOut\obj\Debug\XML_ReadOut.pdb
